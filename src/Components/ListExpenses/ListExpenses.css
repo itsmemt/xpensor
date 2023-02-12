@@ -1,0 +1,25 @@
+.expense-list{
+    display: flex;
+    justify-content: center;
+    padding: 50px 0;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #7E5E9E;
+    color: white;
+  }
+  tbody tr:nth-child(Odd) {
+    background-color:  #D6B9DA;
+    color: grey;
+  }

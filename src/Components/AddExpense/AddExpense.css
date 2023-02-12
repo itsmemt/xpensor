@@ -1,0 +1,44 @@
+.add-expense{
+    text-align: center;
+    color: #fff;
+}
+.form-container{
+    display: flex;
+    justify-content: center;
+}
+.form{
+    background-color: #7E5E9E;
+    border-radius: 10px;
+    margin: 10px 0;
+    margin-bottom: 30px;
+    padding: 20px 30px;
+    width: 300px;
+    color: #fff;
+}
+.form p{
+    margin-top: -5px;
+    font-size: 30px;
+    text-decoration: underline;
+}
+label{
+    float: left;
+}
+input{
+    background-color: #D6B9DA;
+    margin: 10px 0;
+    padding: 10px 5px;
+    width: 100%;
+    color: #000;
+    border: none;
+}
+
+button{
+    background-color: #CAA9E7;
+    color: #fff;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
